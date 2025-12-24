@@ -1,5 +1,3 @@
-# Aplikasi ini belun jadi 100% masih dalam pengembangan by Artt Vinci
-
 Teknologi :
 
 1. PHP.
